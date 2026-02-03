@@ -1,5 +1,5 @@
 ## About The PQSDC2 
-PQSDC2 is an improved open-source quality score data lossless compressor 
+PQSDC2 is an improved open-source quality score data lossless compressor for AI4S big-data management
 that utilizes parallel sequence multi-partitioning model (PSMM) and 
 parallel redundant encoding model (PREM) for optimizing compression raio, memory usage, and parallelism degree. 
 Moreover, the PQSDC2 compression procedure can be expedited by employing a multi-core CPU cluster, 
